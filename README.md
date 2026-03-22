@@ -501,6 +501,8 @@ It's a great way to learn.
 
 * [**Python**: _Build a Quantum Circuit Simulator from Scratch_](https://quantumcomputing.stackexchange.com/questions/17951/how-to-build-a-quantum-circuit-simulator-from-scratch)
 
+* [**Python**: _Build your own AI-Powered Code Reviewer_](https://towardsdatascience.com/build-your-own-ai-powered-code-reviewer-from-scratch-2e6c2b8b8c2d)
+
 ## Origins & License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
